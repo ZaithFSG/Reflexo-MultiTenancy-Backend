@@ -1,0 +1,16 @@
+WARNING 2025-08-30 17:24:09,301 log 16 123260889623424 Not Found: /
+WARNING 2025-08-30 17:24:18,566 log 16 123260889623424 Not Found: /
+WARNING 2025-08-30 17:24:50,496 log 17 123260889623424 Not Found: /favicon.ico
+INFO 2025-08-30 12:31:18,703 autoreload 4848 12964 Watching for file changes with StatReloader
+WARNING 2025-08-30 17:39:26,731 log 15 137156910758784 Not Found: /
+WARNING 2025-08-30 17:54:25,385 log 14 131602301201280 Bad Request: /api/therapists/therapists/
+WARNING 2025-08-30 17:56:47,873 log 16 131602301201280 Not Found: /favicon.ico
+INFO 2025-08-30 12:58:16,869 autoreload 12152 21612 Watching for file changes with StatReloader
+WARNING 2025-08-30 18:00:14,883 log 13 137657358904192 Not Found: /
+WARNING 2025-08-30 18:00:19,085 log 15 137657358904192 Not Found: /
+WARNING 2025-08-31 15:17:38,679 log 15 129245462907776 Not Found: /favicon.ico
+WARNING 2025-08-31 15:33:10,121 log 13 132033718086528 Bad Request: /api/company/reports/appointments-between-dates/
+WARNING 2025-09-01 14:55:12,415 log 14 132378941340544 Not Found: /api/company_reports/exports/pdf/resumen-caja/
+WARNING 2025-09-01 14:55:22,803 log 14 132378941340544 Not Found: /api/company_reports/exports/pdf/resumen-caja/
+WARNING 2025-09-01 14:57:12,813 log 13 132378941340544 Not Found: /favicon.ico
+WARNING 2025-09-01 14:58:57,470 log 15 132378941340544 Bad Request: /api/company/reports/daily-cash/
